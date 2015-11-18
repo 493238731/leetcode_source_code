@@ -1,2 +1,2 @@
-# leecode_source_code
+# leetcode_source_code
 leetcode
